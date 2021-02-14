@@ -1,1 +1,1 @@
-Sample Microservices Registry
+Sample Demo Registry
